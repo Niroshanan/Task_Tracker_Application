@@ -26,7 +26,7 @@ The Task Tracker Application is a console-based Java application designed for ef
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/task-tracker.git
+   git clone https://github.com/Niroshanan/Task_Tracker_Application.git
    cd task-tracker
 
 2. Compile the Java files:
@@ -38,6 +38,20 @@ The Task Tracker Application is a console-based Java application designed for ef
    java TaskTrackerApp
 
 4. Follow the on-screen menu to interact with the Task Tracker Application.
-
-   ## Or 
    
+## How to Use with IntelliJ IDEA
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/Niroshanan/Task_Tracker_Application.git
+
+1. On the main welcome screen, select "Get from Version Control."
+2. In the "Get from Version Control" window, paste the URL of your Git repository (https://github.com/Niroshanan/Task_Tracker_Application.git) into the "URL" field.
+3. Choose the directory where you want to clone the repository by specifying the "Directory" field.
+4. Click the "Clone" button.
+5. IntelliJ IDEA will prompt you to open the project. Click "Yes" to open the cloned project.
+6. Once the project is open, IntelliJ IDEA will automatically detect the project structure.
+7. Locate the TaskTrackerApp.java file in the project structure.
+8. Right-click on TaskTrackerApp.java and select "Run TaskTrackerApp" to run the application.
+9. Follow the on-screen menu in the IntelliJ IDEA console to interact with the Task Tracker Application.
