@@ -28,3 +28,16 @@ The Task Tracker Application is a console-based Java application designed for ef
    ```bash
    git clone https://github.com/your-username/task-tracker.git
    cd task-tracker
+
+2. Compile the Java files:
+   ```bash
+   javac TaskTrackerApp.java
+   
+3. Run the application:
+   ```bash
+   java TaskTrackerApp
+
+4. Follow the on-screen menu to interact with the Task Tracker Application.
+
+   ## Or 
+   
