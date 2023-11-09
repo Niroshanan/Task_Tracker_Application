@@ -53,5 +53,5 @@ The Task Tracker Application is a console-based Java application designed for ef
 5. IntelliJ IDEA will prompt you to open the project. Click "Yes" to open the cloned project.
 6. Once the project is open, IntelliJ IDEA will automatically detect the project structure.
 7. Locate the TaskTrackerApp.java file in the project structure.
-8. Right-click on TaskTrackerApp.java and select "Run TaskTrackerApp" to run the application.
+8. Right-click on Main.java and select "Run Main" to run the application.
 9. Follow the on-screen menu in the IntelliJ IDEA console to interact with the Task Tracker Application.
